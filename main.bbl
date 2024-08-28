@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{buhler1993factoring}
+J.~P. Buhler, H.~W. Lenstra, and C.~Pomerance.
+\newblock Factoring integers with the number field sieve.
+\newblock In {\em The development of the number field sieve}, pages 50--94. Springer, 1993.
+
+\bibitem{coppersmith1994solving}
+D.~Coppersmith.
+\newblock Solving homogeneous linear equations over gf (2) via block wiedemann algorithm.
+\newblock {\em Mathematics of Computation}, 62(205):333--350, 1994.
+
+\bibitem{landquist2001quadratic}
+E.~Landquist.
+\newblock The quadratic sieve factoring algorithm.
+\newblock {\em Math}, 488:1--11, 2001.
+
+\bibitem{li2021empirical}
+Z.~Li and W.~Gasarch.
+\newblock An empirical comparison of the quadratic sieve factoring algorithm and the pollard rho factoring algorithm.
+\newblock {\em arXiv preprint arXiv:2111.02967}, 2021.
+
+\bibitem{silverman2008introduction}
+J.~H. Silverman, J.~Pipher, and J.~Hoffstein.
+\newblock {\em An introduction to mathematical cryptography}, volume~1.
+\newblock Springer, 2008.
+
+\bibitem{silverman1987multiple}
+R.~D. Silverman.
+\newblock The multiple polynomial quadratic sieve.
+\newblock {\em Mathematics of Computation}, 48(177):329--339, 1987.
+
+\bibitem{sutherland2007order}
+A.~V. Sutherland.
+\newblock {\em Order computations in generic groups}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2007.
+
+\end{thebibliography}
